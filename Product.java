@@ -2,7 +2,7 @@ import java.io.*;
 
 // Class 1
 // Helper class
-class Product {
+class Product1 {
 
     // Multiplying three integer values
     public int Prod(int a, int b, int c) {
@@ -19,7 +19,7 @@ class Product {
     }
 }
 
-class GFG {
+class Product {
     public static void main(String[] args) {
 
         Product obj = new Product();
