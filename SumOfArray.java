@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class SumOfArray {
     public static void main(String[] args)
     {
-        int arr[]=new int[51];
+        int arr[]=new int[5];
         int sum=0;
         Scanner r=new Scanner(System.in);
 
